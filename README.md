@@ -1,5 +1,5 @@
 # ChronoCanvas
-
+Deployed Link: https://aquamarine-croquembouche-ba02a2.netlify.app/
 ChronoCanvas is a cinematic calendar built with Next.js App Router, React, and plain CSS. It combines a split-screen month view, animated ambient backgrounds, date-range selection, and lightweight note-taking into a single full-screen interface.
 
 The current app is intentionally client-driven: month navigation, theme changes, range selection, particle effects, and note persistence all run in the browser without a backend.
